@@ -4,6 +4,11 @@ var takeANumber = function (katzDeli, newCustomer) {
      return `Welcome, ${newPerson}. You are number ${katzDeli.length + 1} in line.`
    }
 }
+//
+//
+//
+//
+//
 
 function nowServing (katzDeliLine, newCustomer) {
    if(katzDeliLine.length===0) {
